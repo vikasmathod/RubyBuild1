@@ -6,6 +6,6 @@ rvm:
 - 2.0.0
 
 script:
-- rake test:integration\test.rb
+- rake test:integration
 
 
